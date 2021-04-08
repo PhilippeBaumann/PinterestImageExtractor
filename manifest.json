@@ -2,7 +2,7 @@
   "name": "Pinterest Image Extractor",
   "action": {},
   "manifest_version": 3,
-  "version": "0.2",
+  "version": "0.8",
   "description": "Click the Icon to download all images from the board",
   "icons": {
       "32": "icon32.png",
@@ -10,7 +10,8 @@
       "128": "icon128.png" },
   "permissions": [
     "activeTab",
-    "scripting"
+    "scripting",
+    "storage"
   ],
   "background": {
     "service_worker": "main.js"
