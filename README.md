@@ -1,4 +1,4 @@
-# PinterestImageExtractor
+# Pinterest Image Extractor
  
 ![Logo](https://github.com/PhilippeBaumann/PinterestImageExtractor/blob/main/icon128.png)
 
