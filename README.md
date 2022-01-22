@@ -1,5 +1,5 @@
-# Pinterest Image Extractor
+# Pinterest Image Extractor Chromium Plugin
  
 ![Logo](https://github.com/PhilippeBaumann/PinterestImageExtractor/blob/main/icon128.png)
 
-A simple (bulk) image extractor / downloader for images from the Pinterest Website
+A simple (bulk) image extractor / downloader for images from the Pinterest Website.
